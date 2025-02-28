@@ -14,9 +14,9 @@ To use this tool, follow the steps below:
 
 ### 1. Clone the repository:
 
-git clone https://github.com/cyberbyted/websiteclone.git
-cd websiteclone
-chmode +x ./install.sh
-./install.sh
+git clone https://github.com/cyberbyted/websiteclone.git <br/>
+cd websiteclone<br/>
+chmode +x ./install.sh<br/>
+./install.sh<br/>
 
 Created By Cyberbyted
