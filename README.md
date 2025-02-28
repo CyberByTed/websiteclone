@@ -8,4 +8,15 @@
 - Command-line tool for quick execution.
 - Free and open-source.
 
+- ## Installation
+
+To use this tool, follow the steps below:
+
+### 1. Clone the repository:
+
+git clone https://github.com/cyberbyted/websiteclone.git
+cd websiteclone
+chmode +x ./install.sh
+./install.sh
+
 Created By Cyberbyted
